@@ -2,7 +2,9 @@
 Devido este projeto ser privado, o código-fonte não poderá ser exibido. No entanto, este repositório contêm alguns prints de telas do App, de forma a ser possível ter uma noção das funcionalidades e competências aplicadas. Caso tenha interesse no projeto, favor entrar em contato pelo LinkedIn que está nas informações do meu perfil.
 
 # Demonstração em Vídeo
-https://bit.ly/3b2iQiz [![Watch the video]](https://bit.ly/3b2iQiz)
+Link para demonstração em vídeo: https://bit.ly/3b2iQiz 
+
+<iframe src="https://drive.google.com/file/d/1f5HNVVZpiwLyJahKwJmcEQ-qcJbUaUhV/preview" width="640" height="480"></iframe>
 
 # Telas
 ![alt text](1.png)
