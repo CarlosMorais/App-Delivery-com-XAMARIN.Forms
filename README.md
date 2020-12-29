@@ -4,7 +4,7 @@ Devido este projeto ser privado, o código-fonte não poderá ser exibido. No en
 # Demonstração em Vídeo
 Link para demonstração em vídeo: https://bit.ly/3b2iQiz 
 
-<iframe src="https://drive.google.com/file/d/1f5HNVVZpiwLyJahKwJmcEQ-qcJbUaUhV/preview" width="640" height="480"></iframe>
+[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://drive.google.com/file/d/1f5HNVVZpiwLyJahKwJmcEQ-qcJbUaUhV/preview)
 
 # Telas
 ![alt text](1.png)
