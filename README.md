@@ -3,8 +3,7 @@ Devido este projeto ser privado, o código-fonte não poderá ser exibido. No en
 
 # Demonstração em Vídeo
 Link para demonstração em vídeo: https://bit.ly/3b2iQiz 
-
-[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://drive.google.com/file/d/1f5HNVVZpiwLyJahKwJmcEQ-qcJbUaUhV/preview)
+<a href="https://bit.ly/3b2iQiz">![alt text](1.png)</a>
 
 # Telas
 ![alt text](1.png)
